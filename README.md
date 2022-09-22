@@ -4,7 +4,7 @@ melons 组件库
 
 ## ✨ 在线预览
 
-https://github.com/umijs/dumi-template
+https://github.com/xg-jxk/melons
 
 ## 📒 目录介绍
 
