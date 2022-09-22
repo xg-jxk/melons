@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "dumi-template",
+  "name": "melons",
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",
@@ -21,8 +21,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/dumi-template",
-    "branch": "main"
+    "url": "https://github.com/xg-jxk/melons",
+    "branch": "master"
   },
   "lint-staged": {
     "*.{js,jsx,less,md,json}": [
@@ -33,7 +33,8 @@
     ]
   },
   "dependencies": {
-    "react": "^16.12.0"
+    "antd": "^4.23.2",
+    "react": "^17.0.0"
   },
   "devDependencies": {
     "@umijs/test": "^3.0.5",
